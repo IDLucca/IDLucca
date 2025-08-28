@@ -1,4 +1,4 @@
-## Olá eu sou Luccas 👋
+## Olá! Eu sou Luccas Marsal 👋
 
 
 - ⚡ Desenvolvedor Back-End
