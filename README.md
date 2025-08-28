@@ -4,6 +4,7 @@
 - ⚡ Desenvolvedor Back-End
 
 <div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDLucca&show_icons=true&theme=transparent)
   ##
 <div align="center">
