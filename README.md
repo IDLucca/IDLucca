@@ -26,3 +26,9 @@
 
   
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IDLucca/IDLucca/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IDLucca/IDLucca/blob/output/snake.svg" />
+  <img alt="Snake animation" src="https://github.com/IDLucca/IDLucca/blob/output/snake.svg" />
+</picture>
