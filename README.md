@@ -3,7 +3,7 @@
 ##    Olá! Eu sou Luccas Marsal 👋
 
 
- Desenvolvedor Back-End
+ Desenvolvedor Back-End & Front-End
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDLucca&show_icons=true&theme=transparent)
