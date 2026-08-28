@@ -38,7 +38,7 @@ profile:
   <code>signal_strength: ██████████ 100%</code>
 </div>
 
-02. // TECH_STACK
+02. TECH_STACK
 
 <!-- Remova ou adicione badges para refletir exatamente a sua stack. -->
 
@@ -71,7 +71,7 @@ Data, Cloud & DevOps
   <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
 </p>
 
-03. // FERRAMENTAS
+03. FERRAMENTAS
 
 <div align="center">
   <img src="https://img.shields.io/badge/VS_Code-05070D?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="VS Code" />
@@ -82,7 +82,7 @@ Data, Cloud & DevOps
   <img src="https://img.shields.io/badge/Linux-05070D?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
 </div>
 
-04. // PROJETOS_EM_DESTAQUE
+04. PROJETOS_EM_DESTAQUE
 
 <!-- Troque PROJETO-1 ... PROJETO-4 pelos nomes exatos dos seus repositórios. -->
 
@@ -104,7 +104,7 @@ Data, Cloud & DevOps
   </a>
 </div>
 
-05. // CURRENT_MISSION
+05. CURRENT_MISSION
 
 luccas@future:~$ ./current_mission.sh
 
@@ -117,7 +117,7 @@ luccas@future:~$ ./current_mission.sh
 > next_checkpoint: always_learning
 > _
 
-06. // SYSTEM_METRICS
+06. SYSTEM_METRICS
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=IDLucca&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=C9D1D9&icon_color=7C3AED&ring_color=00E7FF" alt="GitHub Stats" />
@@ -134,13 +134,13 @@ Activity Matrix
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IDLucca&bg_color=0D1117&color=00E7FF&line=7C3AED&point=FF2D95&area=true&area_color=7C3AED&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="GitHub Activity Graph" />
 </div>
 
-07. // ACHIEVEMENTS
+07. ACHIEVEMENTS
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=IDLucca&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" alt="GitHub Trophies" />
 </div>
 
-08. // CONTRIBUTION_SNAKE
+08. CONTRIBUTION_SNAKE
 
 <div align="center">
   <picture>
@@ -152,7 +152,7 @@ Activity Matrix
 
 <!-- A imagem acima aparece após configurar um workflow do Platane/snk para publicar os SVGs no branch `output`. -->
 
-09. // NETWORK_LINKS
+09. NETWORK_LINKS
 
 <div align="center">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
