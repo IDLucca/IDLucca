@@ -17,7 +17,7 @@
 
 [ ACCESS GRANTED ] Bem-vindo ao meu espaço no GitHub — onde código, criatividade e tecnologia se encontram.
 
-01. // SOBRE_MIM
+01.  SOBRE_MIM
 
 profile:
   name: "Luccas Marsal"
